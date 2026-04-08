@@ -1,0 +1,161 @@
+Source Available License — Non-Commercial
+Copyright (c) 2026 Manas Gawde
+https://github.com/Manas236
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+This is not an open-source license.
+
+PREAMBLE
+
+This license governs the use of the source code and associated files
+in this repository ("Software"). It is designed to allow learning,
+study, and personal experimentation while protecting the author's
+original implementation from unauthorized commercial use and
+redistribution.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. DEFINITIONS
+
+   "Software" means the source code, configuration files, documentation,
+   and all other files contained in this repository.
+
+   "Author" means Manas Gawde, the original creator and copyright holder.
+
+   "Commercial Use" means any use of the Software — in whole or in part,
+   modified or unmodified — that is primarily intended for or directed
+   toward commercial advantage or monetary compensation. This includes,
+   but is not limited to: integrating the Software into a paid product or
+   service, using the Software to operate a for-profit business process,
+   or offering the Software itself as a product.
+
+   "Derivative Work" means any work that contains, modifies, or directly
+   incorporates the Software's source code or substantial portions of it.
+   This term applies to code-level adaptation only and does not extend to
+   independently written software that addresses similar problems.
+
+   "Personal Use" means use by an individual for private, non-commercial
+   purposes, including learning, experimentation, and portfolio review.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2. GRANT OF RIGHTS
+
+   Subject to the terms of this License, the Author grants you a
+   limited, non-exclusive right to:
+
+   (a) View, read, and study the Software for any purpose, including
+       educational and professional development.
+
+   (b) Clone or fork the Software for Personal Use, private
+       experimentation, or non-commercial research.
+
+   (c) Reference the Software in academic work, blog posts, or portfolio
+       discussions, provided attribution is given per Section 4.
+
+   These rights do not constitute a transfer of ownership. All rights
+   not explicitly granted here are reserved by the Author.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3. RESTRICTIONS
+
+   You may not, without prior written permission from the Author:
+
+   (a) Use the Software or any Derivative Work for Commercial Use.
+
+   (b) Sublicense the Software or any Derivative Work.
+
+   (c) Distribute the Software or any Derivative Work for commercial
+       purposes, or bundle it into any product or service offered for
+       sale or revenue. Non-commercial redistribution (e.g., public
+       forks on GitHub) is permitted, provided that:
+       (i)  this License and copyright notice are retained in full
+            and unmodified; and
+       (ii) the Software is not modified in a way that misrepresents
+            the original authorship.
+
+   (d) Remove, alter, or obscure any copyright notice, license header,
+       or attribution statement present in the Software.
+
+   (e) Represent the Software or any Derivative Work as your own
+       original authorship in any public context.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. ATTRIBUTION
+
+   If you publicly reference, discuss, or showcase this Software or
+   any Derivative Work (e.g., in a portfolio, blog post, talk, or
+   open-source project), you must include the following attribution
+   in a reasonably visible location:
+
+       Originally authored by Manas Gawde
+       https://github.com/Manas236
+
+   This requirement applies to public use only. Private forks and
+   local experimentation do not require attribution.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5. COMMERCIAL LICENSING
+
+   If you wish to use this Software for Commercial Use, you may request
+   a separate commercial license from the Author. Commercial licenses
+   are granted on a case-by-case basis and may involve agreed-upon
+   compensation terms.
+
+   To inquire: https://github.com/Manas236
+
+   Using the Software for Commercial Use without a valid commercial
+   license constitutes copyright infringement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6. NO PATENT RIGHTS
+
+   This License does not grant any rights in the patents or patent
+   applications of the Author or any contributor.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7. DISCLAIMER OF WARRANTIES
+
+   TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+   "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+   BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, OR NON-INFRINGEMENT. THE AUTHOR DOES NOT
+   GUARANTEE THAT THE SOFTWARE IS FREE OF ERRORS OR SUITABLE FOR ANY
+   PARTICULAR USE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8. LIMITATION OF LIABILITY
+
+   TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE
+   LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+   DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+9. TERMINATION
+
+   Your rights under this License terminate automatically if you
+   materially breach any of its terms. Upon termination, you must
+   cease all use and delete all copies of the Software in your
+   possession. Termination does not affect the Author's right to
+   pursue remedies for past violations.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10. GENERAL
+
+   This License is the complete agreement between you and the Author
+   regarding the Software. If any provision is found unenforceable,
+   the remaining provisions continue in full effect. This License does
+   not create any partnership, agency, or employment relationship.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+For permissions beyond the scope of this License, contact:
+Manas Gawde — https://github.com/Manas236
