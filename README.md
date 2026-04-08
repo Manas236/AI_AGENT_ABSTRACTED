@@ -246,6 +246,6 @@ Commercial use requires a written agreement with the author.
 
 **Built by [Manas Gawde](https://github.com/Manas236)**
 
-*If this project interests you — for collaboration, hiring, or commercial licensing — reach out via GitHub.*
+*If this project interests you — for collaboration, hiring, or commercial licensing — reach out via GitHub or email at [manasgawde@gmail.com](mailto:manasgawde@gmail.com).*
 
 </div>
